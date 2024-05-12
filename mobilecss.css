@@ -1,0 +1,6 @@
+.row {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* width: calc(100% / 2); */
+}
